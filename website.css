@@ -154,7 +154,7 @@ li a{
 
 .my_list .list img:hover,.trending .trend img:hover,.movies .movies_row img:hover,.hindi .hindi img:hover,.horror .horror img:hover,.top10 .top10 .S1:hover,.top10 .top10 .S2:hover,.top10 .top10 .S3:hover,.top10 .top10 .S4:hover,.top10 .top10 .S5:hover,.top10 .top10 .S6:hover,.top10 .top10 .S7:hover,.top10 .top10 .S8:hover,.top10 .top10 .S9:hover,.top10 .top10 .S10:hover,.top10 .top10 .M1:hover,.top10 .top10 .M2:hover,.top10 .top10 .M3:hover,.top10 .top10 .M4:hover,.top10 .top10 .M5:hover,.top10 .top10 .M6:hover,.top10 .top10 .M7:hover,.top10 .top10 .M8:hover,.top10 .top10 .M9:hover,.top10 .top10 .M10:hover{
     transition: 2s ease-out;
-    transform: scale(1.3);
+    transform: scale(1.1,1.1);
 }
 
 .continue .continue{
