@@ -136,14 +136,14 @@ li a{
     color: white;
 }
 
-.my_list .list,.trending .trend,.movies .movies_row,.horror .horror,.hindi .hindi{
+.my_list .list,.trending .trend,.movies .movies_row,.horror .horror,.hindi .hindi,.continue .continue{
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
     
 }
 
-.my_list .list::-webkit-scrollbar,.trending .trend::-webkit-scrollbar,.movies .movies_row::-webkit-scrollbar,.horror .horror::-webkit-scrollbar,.hindi .hindi::-webkit-scrollbar{
+.my_list .list::-webkit-scrollbar,.trending .trend::-webkit-scrollbar,.movies .movies_row::-webkit-scrollbar,.horror .horror::-webkit-scrollbar,.hindi .hindi::-webkit-scrollbar,.continue .continue::-webkit-scrollbar{
     display: none;
 }
 
